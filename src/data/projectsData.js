@@ -31,4 +31,12 @@ export const projectsData = [
     featured: true,
     status: 'Completed',
   },
+  {
+    id: 'tef-festival',
+    tech: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
+    github: null,
+    demo: 'https://tefyemen.com',
+    featured: true,
+    status: 'Completed',
+  },
 ];

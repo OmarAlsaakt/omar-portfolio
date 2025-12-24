@@ -98,6 +98,19 @@ export const translations = {
           'Built output sanitization to prevent XSS attacks',
         ],
       },
+       tefFestival: {
+    name: 'TEF Festival Website',
+    description: 'A static frontend website for the TEF Festival built with Next.js, featuring responsive design, Tailwind CSS, and Framer Motion animations.',
+    role: 'Frontend Developer',
+    highlights: [
+      'Built a fully responsive Next.js website for TEF Festival',
+      'Implemented interactive UI with Framer Motion animations',
+      'Used Tailwind CSS for fast, maintainable styling',
+      'Optimized images and performance for fast loading',
+    ],
+    demo: 'https://tefyemen.com',
+    github: null,
+  },
     },
     experience: {
       title: 'Work Experience',
@@ -237,6 +250,19 @@ export const translations = {
           'بنيت تنقية المخرجات لمنع هجمات XSS',
         ],
       },
+      tefFestival: {
+    name: 'موقع مهرجان تعز الريادي',
+    description: 'موقع واجهة أمامية ثابت لمهرجان تعز الريادي تم بناؤه باستخدام Next.js، يتضمن تصميم متجاوب، Tailwind CSS، وحركات Framer Motion.',
+    role: 'مطور الواجهة الأمامية',
+    highlights: [
+      'بناء موقع Next.js متجاوب بالكامل لمهرجان تعز الريادي',
+      'تطبيق واجهة تفاعلية باستخدام حركات Framer Motion',
+      'استخدام Tailwind CSS لتصميم سريع وسهل الصيانة',
+      'تحسين الصور والأداء لتحميل سريع',
+    ],
+    demo: 'https://tefyemen.com',
+    github: null,
+  },
     },
     experience: {
       title: 'الخبرات العملية',
