@@ -32,7 +32,7 @@ export const projectsData = [
     status: 'Completed',
   },
   {
-    id: 'tef-festival',
+    id: 'tefFestival',
     tech: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
     github: null,
     demo: 'https://tefyemen.com',
