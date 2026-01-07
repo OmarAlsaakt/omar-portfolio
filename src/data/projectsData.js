@@ -39,4 +39,12 @@ export const projectsData = [
     featured: true,
     status: 'Completed',
   },
+  {
+    id: 'petCareTracker',
+    tech: ['Flutter', 'Firebase', 'Provider', 'Cloud Firestore', 'Firebase Storage'],
+    github: 'https://github.com/OmarAlsaakt/pet_care_tracker',
+    demo: 'https://OmarAlsaakt.github.io/pet_care_tracker/',
+    featured: true,
+    status: 'Completed',
+  },
 ];

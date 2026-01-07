@@ -173,3 +173,15 @@ For deployment:
 This is a complete, production-ready portfolio website! 🎉
 
 All files are professionally crafted and ready to use.
+
+git add .
+git commit -m "Update projects and translations..."
+git push origin main
+
+npm run dev
+
+
+npm run build
+
+npm run deploy
+

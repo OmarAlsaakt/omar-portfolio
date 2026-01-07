@@ -111,6 +111,21 @@ export const translations = {
     demo: 'https://tefyemen.com',
     github: null,
   },
+  petCareTracker: {
+    name: 'Pet Care Tracker',
+    description: 'A comprehensive Flutter mobile application for managing pets\' care including health records, feeding schedules, grooming, and more, fully integrated with Firebase.',
+    role: 'Full-Stack Flutter Developer',
+    highlights: [
+      'Full Firebase integration (Auth, Firestore, Storage, Messaging)',
+      'Provider-based state management for reactive UI',
+      'Complete CRUD operations for Pets, Vaccinations, Weights, Feeding, Grooming',
+      'Push notifications with scheduled reminders',
+      'Responsive UI following Material Design 3 principles',
+      'Offline support and real-time data sync across devices',
+    ],
+    demo: 'https://OmarAlsaakt.github.io/pet_care_tracker/',
+    github: 'https://github.com/OmarAlsaakt/pet_care_tracker',
+  },
     },
     experience: {
       title: 'Work Experience',
@@ -262,6 +277,21 @@ export const translations = {
     ],
     demo: 'https://tefyemen.com',
     github: null,
+  },
+   petCareTracker: {
+    name: 'تطبيق Pet Care Tracker',
+    description: 'تطبيق جوال شامل باستخدام Flutter لإدارة رعاية الحيوانات الأليفة بما في ذلك السجلات الصحية، وجداول التغذية، والنشاطات الجمالية، وأكثر، مع تكامل كامل مع Firebase.',
+    role: 'مطور متكامل باستخدام Flutter',
+    highlights: [
+      'تكامل كامل مع Firebase (المصادقة، Firestore، التخزين، الإشعارات)',
+      'إدارة الحالة باستخدام Provider لتحديث واجهة المستخدم تلقائياً',
+      'دعم CRUD كامل للحيوانات الأليفة، التطعيمات، الوزن، التغذية، والنشاطات الجمالية',
+      'إشعارات دفع مع تذكيرات مجدولة',
+      'واجهة مستخدم متجاوبة وفق معايير Material Design 3',
+      'دعم العمل بدون إنترنت وتزامن البيانات في الوقت الفعلي',
+    ],
+    demo: 'https://OmarAlsaakt.github.io/pet_care_tracker/',
+    github: 'https://github.com/OmarAlsaakt/pet_care_tracker',
   },
     },
     experience: {
