@@ -126,6 +126,19 @@ export const translations = {
     demo: 'https://OmarAlsaakt.github.io/pet_care_tracker/',
     github: 'https://github.com/OmarAlsaakt/pet_care_tracker',
   },
+  ecoConnect: {
+  name: 'Eco-Connect',
+  description: 'A Flutter-based mobile application developed as a university project, designed to promote sustainable living through an eco-friendly marketplace and an interactive community.',
+  role: 'Flutter Mobile Developer',
+  highlights: [
+    'Built a clean and modern Flutter application focused on sustainability and environmental awareness',
+    'Designed an eco-friendly marketplace with product categorization, search, and detailed impact information',
+    'Implemented a sustainability-focused community with challenges, articles, and user engagement features',
+    'Developed personal impact tracking including plastic reduction, water savings, and carbon footprint insights',
+    'Applied Provider for state management and custom theming for a consistent user experience',
+  ],
+},
+
     },
     experience: {
       title: 'Work Experience',
@@ -293,6 +306,19 @@ export const translations = {
     demo: 'https://OmarAlsaakt.github.io/pet_care_tracker/',
     github: 'https://github.com/OmarAlsaakt/pet_care_tracker',
   },
+  ecoConnect: {
+  name: 'Eco-Connect',
+  description: 'تطبيق جوال مبني باستخدام Flutter تم تطويره كمشروع جامعي، يهدف إلى تعزيز أسلوب الحياة المستدام من خلال سوق إلكتروني صديق للبيئة ومجتمع تفاعلي.',
+  role: 'مطور تطبيقات Flutter',
+  highlights: [
+    'بناء تطبيق Flutter بواجهة حديثة ونظيفة تركز على الاستدامة والوعي البيئي',
+    'تصميم سوق إلكتروني للمنتجات الصديقة للبيئة مع تصنيفات وبحث ومعلومات أثر بيئي',
+    'تنفيذ مجتمع تفاعلي يضم تحديات بيئية ومقالات تعليمية',
+    'تطوير نظام لتتبع الأثر البيئي الشخصي مثل تقليل البلاستيك وتوفير المياه',
+    'استخدام Provider لإدارة الحالة مع تصميم مخصص للألوان والخطوط',
+  ],
+},
+
     },
     experience: {
       title: 'الخبرات العملية',

@@ -47,4 +47,13 @@ export const projectsData = [
     featured: true,
     status: 'Completed',
   },
+  {
+  id: 'ecoConnect',
+  tech: ['Flutter', 'Provider', 'Material Design', 'Sustainability'],
+  github: 'https://github.com/OmarAlsaakt/eco_connect_app', // عدّل الرابط
+  demo: 'https://omaralsaakt.github.io/eco_connect_app/', // أو رابط APK / Demo إذا توفر
+  featured: true,
+  status: 'Completed',
+},
+
 ];
