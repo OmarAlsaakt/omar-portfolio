@@ -54,6 +54,22 @@ export const translations = {
       subtitle: 'Real-world applications built with modern technologies',
       viewCode: 'View Code',
       liveDemo: 'Live Demo',
+      paletteStory: {
+  name: 'PaletteStory',
+  description: 'A comprehensive Flutter mobile application for color palette generation and management, featuring color extraction, digital wardrobe, artist tools, and AI-powered palette generation.',
+  role: 'Full-Stack Flutter Developer',
+  highlights: [
+    'Extract colors from images and create custom palettes',
+    'Manage and categorize palettes and clothing items in a digital wardrobe',
+    'Professional artist tools including color theory utilities (complementary, analogous, triadic)',
+    'AI-driven palette generation from keywords and moods',
+    'Export palettes in multiple formats (CSS, JSON, PNG) and share easily',
+    'Adaptive UI with Light and Dark themes',
+  ],
+  demo: 'https://omaralsaakt.github.io/palette_story/',
+  github: 'https://github.com/OmarAlsaakt/palette_story',
+},
+
       baraka: {
         name: 'Baraka App',
         description: 'A full-stack mobile platform designed to reduce food waste by connecting restaurants with consumers to sell surplus food at a discount.',
@@ -234,6 +250,22 @@ export const translations = {
       subtitle: 'تطبيقات حقيقية مبنية بتقنيات حديثة',
       viewCode: 'الكود المصدري',
       liveDemo: 'معاينة مباشرة',
+      paletteStory: {
+  name: 'تطبيق PaletteStory',
+  description: 'تطبيق جوال شامل باستخدام Flutter لتوليد وإدارة لوحات الألوان، يشمل استخراج الألوان، خزانة رقمية، أدوات فنية، وتوليد لوحات ألوان مدعوم بالذكاء الاصطناعي.',
+  role: 'مطور Flutter متكامل',
+  highlights: [
+    'استخراج الألوان من الصور وإنشاء لوحات ألوان مخصصة',
+    'إدارة وتصنيف اللوحات وعناصر الملابس في خزانة رقمية',
+    'أدوات فنية متقدمة تشمل نظريات الألوان (تكميلي، تماثلي، ثلاثي)',
+    'توليد لوحات ألوان باستخدام الذكاء الاصطناعي من كلمات مفتاحية ومزاجات',
+    'تصدير اللوحات بعدة صيغ (CSS, JSON, PNG) ومشاركتها بسهولة',
+    'واجهة مستخدم متكيفة مع الوضع الفاتح والداكن',
+  ],
+  demo: 'https://omaralsaakt.github.io/palette_story/',
+  github: 'https://github.com/OmarAlsaakt/palette_story',
+},
+
       baraka: {
         name: 'تطبيق بركة',
         description: 'منصة جوال متكاملة مصممة لتقليل هدر الطعام من خلال ربط المطاعم بالمستهلكين لبيع الطعام الفائض بسعر مخفض.',

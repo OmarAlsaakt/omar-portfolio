@@ -1,5 +1,13 @@
 export const projectsData = [
   {
+    id: 'paletteStory',
+    tech: ['Flutter', 'Dart', 'Hive', 'Material Design', 'AI', 'Color Theory'],
+    github: 'https://github.com/OmarAlsaakt/palette_story',
+    demo: 'https://omaralsaakt.github.io/palette_story/',
+    featured: true,
+    status: 'Completed',
+  },
+  {
     id: 'baraka',
     tech: ['ASP.NET Core', 'Flutter', 'Blazor', 'SQL Server', 'JWT'],
     github: null,
