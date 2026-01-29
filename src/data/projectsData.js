@@ -1,5 +1,13 @@
 export const projectsData = [
   {
+    id: 'tefFestival',
+    tech: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
+    github: null,
+    demo: 'https://tefyemen.com',
+    featured: true,
+    status: 'Completed',
+  },
+  {
     id: 'paletteStory',
     tech: ['Flutter', 'Dart', 'Hive', 'Material Design', 'AI', 'Color Theory'],
     github: 'https://github.com/OmarAlsaakt/palette_story',
@@ -39,14 +47,7 @@ export const projectsData = [
     featured: true,
     status: 'Completed',
   },
-  {
-    id: 'tefFestival',
-    tech: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
-    github: null,
-    demo: 'https://tefyemen.com',
-    featured: true,
-    status: 'Completed',
-  },
+
   {
     id: 'petCareTracker',
     tech: ['Flutter', 'Firebase', 'Provider', 'Cloud Firestore', 'Firebase Storage'],
